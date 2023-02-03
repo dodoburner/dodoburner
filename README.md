@@ -2,7 +2,7 @@
 
 🔭 I’m Dorian Urem
 
-🏢 I'm a full-stack developer who loves problem solving
+🏢 I'm a full-stack developer who loves problem solving, currently looking for new opportunities
 
 🌱 My primary skills are JavaScript, React, Redux, Ruby, Ruby on Rails
 
